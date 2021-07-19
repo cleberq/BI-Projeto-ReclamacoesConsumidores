@@ -1,0 +1,11 @@
+Informamos que os chamados que foram abertos no dez de agosto de 2020 foram exportados para o formato csv, por problemas internos, com as colunas "Tempo de Resposta" e "Como Comprou/contratou" em branco, totalizando 5.560 registros com estas duas colunas em branco, distribuídos da seguinte forma:
+  
+Agosto: 
+Coluna "Como Comprou/contratou" em branco: 2.376 registros
+Coluna "Tempo de Resposta" em branco decorrente do dia dez de agosto: 2.376 registros
+Coluna "Tempo de Resposta" em branco remanescentes do mês de agosto: 1.564 registros
+
+Setembro: 
+Coluna "Como Comprou/contratou" em branco: 3.184 registros
+Coluna "Tempo de Resposta" em branco decorrente do dia dez de agosto: 3.184 registros
+Coluna "Tempo de Resposta" em branco remanescentes do mês de setembro: 860 registros
